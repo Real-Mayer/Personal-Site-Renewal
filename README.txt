@@ -1,8 +1,17 @@
 Нужные вещи:
 1)Node.Js (node package manager)(скачать - установить)
+
 2)Gulp + Плагины для gulp:
+
+а)
+npm install gulp-cli -g
+npm install gulp -D
+touch gulpfile.js
+б)
 npm install —save-dev gulp gulp-sass gulp-autoprefixer gulp-minify-css browser-sync gulp-imagemin imagemin-pngquant gulp-uglify gulp-sourcemaps gulp-rigger gulp-watch gulp-notify
+
 3)Git (скачать - установить)
+
 4)Bower (npm -install -g bower)
 
 
